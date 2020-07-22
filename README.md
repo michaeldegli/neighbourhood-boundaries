@@ -1,5 +1,5 @@
 # Neighbourhood Boundaries
-Neighbourhood boundaries in JSON. Currently formatted for easy consumption with google maps api.
+Neighbourhood boundaries in JSON. Compatible with Google Maps API.
 
 ## Neighbourhoods
 
